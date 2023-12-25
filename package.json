@@ -1,0 +1,22 @@
+{
+  "name": "algorithm-challenges",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pedrohhope/algorithm-challenges.git",
+  "author": "Pedro <pvpswapedro123@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "transform": {
+      "^.+\\.js$": "babel-jest"
+    }
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.6",
+    "@babel/preset-env": "^7.23.6",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  }
+}
