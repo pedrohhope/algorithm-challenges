@@ -32,4 +32,4 @@ Encorajamos a discussão e colaboração! Sinta-se à vontade para propor melhor
 1. Clone o repositório para sua máquina local:
 
    ```bash
-   git clone https://github.com/seu-usuario/desafios-algoritmos-entendendo-algoritmos.git
+   git clone https://github.com/pedrohhope/algorithm-challenges.git
