@@ -4,7 +4,7 @@ Bem-vindo ao Repositório de Desafios de Algoritmos inspirado no livro "Entenden
 
 ## Livro "Entendendo Algoritmos"
 
-Antes de começar, recomendamos adquirir uma cópia do livro ["Entendendo Algoritmos"](link_para_compra_do_livro) de autoria de Aditya Bhargava. Este livro é uma excelente fonte de conhecimento para compreender os fundamentos dos algoritmos de forma clara e acessível.
+Antes de começar, recomendamos adquirir uma cópia do livro ["Entendendo Algoritmos"](https://www.amazon.com.br/Entendendo-Algoritmos-Ilustrado-Programadores-Curiosos/dp/8575225634/ref=asc_df_8575225634/?tag=googleshopp00-20&linkCode=df0&hvadid=379765802639&hvpos=&hvnetw=g&hvrand=7423002327625399220&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001549&hvtargid=pla-811121403561&psc=1&mcid=902a95e1c06838bab7392889ad3e55c8) de autoria de Aditya Bhargava. Este livro é uma excelente fonte de conhecimento para compreender os fundamentos dos algoritmos de forma clara e acessível.
 
 ## Estrutura do Repositório
 
